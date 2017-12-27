@@ -1,42 +1,42 @@
-        body {
-            font-family: "Microsoft JhengHei";
-            width: 1000px;
-            margin: 0 auto;
-        }
-        
-        #top {
-            width: 100%;
-            margin: 0 auto;
-        }
-        
-        li {
-            list-style: none;
-            display: inline-block;
-            margin: 25px 85px 5px;
-        }
-        
-        #menu {
-            width: 100%;
-            margin: 0 auto;
-            background: #66FFE6;
-        }
-        
-        #content {
-            background: #73E68C;
-            width: 100%;
-            margin: 0 auto;
-            color: #483D8B;
-            text-align: center;
-        }
-        
-        a {
-            color: #DC143C;
-        }
-        
-        #footer {
-            background: #A16B47;
-            width: 100%;
-            margin: 0 auto;
-            color: #FFEBCD;
-            text-align: center;
-        }
+body {
+    font-family: "Microsoft JhengHei";
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#top {
+    width: 100%;
+    margin: 0 auto;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    margin: 25px 85px 5px;
+}
+
+#menu {
+    width: 100%;
+    margin: 0 auto;
+    background: #66FFE6;
+}
+
+#content {
+    background: #73E68C;
+    width: 100%;
+    margin: 0 auto;
+    color: #483D8B;
+    text-align: center;
+}
+
+a {
+    color: #DC143C;
+}
+
+#footer {
+    background: #A16B47;
+    width: 100%;
+    margin: 0 auto;
+    color: #FFEBCD;
+    text-align: center;
+}
