@@ -12,7 +12,7 @@
         li {
             list-style: none;
             display: inline-block;
-            margin: 30px 80px 0;
+            margin: 20px 85px 0;
         }
         
         #menu {
@@ -26,5 +26,17 @@
             width: 100%;
             margin: 0 auto;
             color: #483D8B;
+            text-align: center;
+        }
+        
+        a {
+            color: #DC143C;
+        }
+        
+        #footer {
+            background: #A16B47;
+            width: 100%;
+            margin: 0 auto;
+            color: #FFEBCD;
             text-align: center;
         }
