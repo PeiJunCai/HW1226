@@ -1,6 +1,7 @@
         body {
             font-family: "Microsoft JhengHei";
             width: 1000px;
+            margin: 0 auto;
         }
         
         #top {
@@ -11,10 +12,19 @@
         li {
             list-style: none;
             display: inline-block;
-            margin: 30px 40px;
+            margin: 30px 80px 0;
         }
         
         #menu {
-            width: 80%;
+            width: 100%;
             margin: 0 auto;
+            background: #66FFE6;
+        }
+        
+        #content {
+            background: #73E68C;
+            width: 100%;
+            margin: 0 auto;
+            color: #483D8B;
+            text-align: center;
         }
